@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "email": "vu@gmail.com",
+      "password": "$2a$10$.whpeeh8TYJ7UBSOs9j1pOH.mb8CNkpyH9IdXGvT/W8kxikGXbH2.",
+      "username": "ngo",
+      "role": 0,
+      "id": 1
+    },
+    {
+      "email": "ngovanvu203@gmail.com",
+      "password": "$2a$10$S.By0nKzR07/v1AAs3/sMe2Y3EtVDP2XWL77KAWYlPC1MY/w0gWEK",
+      "username": "ngovanvu",
+      "role": 1,
+      "id": 2
+    },
+    {
+      "email": "hoangpvph21107@fpt.edu.vn",
+      "password": "$2a$10$95mmsEZQaUfkQFHcEk./t.2/4EHlg/WCKiDeCr2X5VTkMsNDjJnVu",
+      "username": "ngoc",
+      "role": 0,
+      "id": 3
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "HTML CSS"
+    },
+    {
+      "id": 2,
+      "name": "JAVASCRIP"
+    },
+    {
+      "name": "PHP",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Shop Bán sách",
+      "description": "code bằng php web có thêm sửa xóa, đăng nhập ,đăng kí ,bình luận,...",
+      "imgs": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1676958153/portfolio/oeav87t9xefitlkqvllr.png"
+      ],
+      "github": "https://github1s.com/datlt2306/web501-web2061/blob/web501-we17303/we17303/examples/array.js",
+      "preview": "https://github1s.com/datlt2306/web501-web2061/blob/web501-we17303/we17303/examples/array.js",
+      "time": "1 tuần ",
+      "author": "ngô văn vụ"
+    },
+    {
+      "categoryId": 3,
+      "name": "Web thế giới đồ điện tử",
+      "description": "thêm sửa xóa , đăng nhập đăng kí, thống kê , bình luận, phân quyền ",
+      "imgs": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1676958317/portfolio/qlf2jz2pnlosq0ytpt0e.png"
+      ],
+      "github": "https://github.com/vunvph21089/HPV_DA1",
+      "preview": "https://github.com/vunvph21089/HPV_DA1",
+      "time": "1 tháng",
+      "author": "Ngô Văn Vụ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Web bất động sản",
+      "description": "thêm sửa xóa , thống kê, bình luận , tư vấn , phân quyền, nhân viên , ........",
+      "imgs": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1676958407/portfolio/qmdvikj0eunhtw51st0v.png"
+      ],
+      "github": "https://github.com/vunvph21089/HPV_DA1",
+      "preview": "https://github.com/vunvph21089/HPV_DA1",
+      "time": "1 tháng",
+      "author": "Ngô Văn Vụ"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Portfolio",
+      "description": "trang cá nhân , thêm sửa xóa , đăng nhập đăng kí , danh mục...",
+      "imgs": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1677111859/portfolio/r9b6yzuz2thhi461fuyh.png"
+      ],
+      "github": "https://github.com/vunvph21089/HPV_DA1",
+      "preview": "https://github.com/vunvph21089/HPV_DA1",
+      "time": "3 ngày",
+      "author": "Ngô Văn Vụ ĐZ"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "name": "123",
+      "imgs": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1677096046/portfolio/qdihk7scp8ydoao2iscl.jpg"
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "id": 1,
+      "name": "facebook",
+      "showicon": "fa-brands fa-facebook",
+      "fonsize": "22px",
+      "color": "#131add",
+      "link": "https://www.facebook.com/profile.php?id=100063781540097&mibextid=ZbWKwL"
+    },
+    {
+      "name": "Youtobe",
+      "showicon": "fa-brands fa-youtube",
+      "fonsize": "22px",
+      "color": "#ed0202",
+      "link": "https://www.youtube.com/channel/UC1VB9T79hQKifWolSP2OnBA",
+      "id": 2
+    },
+    {
+      "name": "instagram",
+      "showicon": "fa-brands fa-instagram",
+      "fonsize": "22px",
+      "color": "#fc6703",
+      "link": "https://fontawesome.com/icons/instagram?s=&f=brands",
+      "id": 3
+    },
+    {
+      "name": "email",
+      "showicon": "fa-regular fa-envelope",
+      "fonsize": "22px",
+      "color": "#003efa",
+      "link": "https://fontawesome.com/icons/envelope?s=regular&f=classic",
+      "id": 4
+    }
+  ],
+  "headers": [
+    {
+      "text1": "Welcome To",
+      "spantext1": "FRONTEND DEVELOPER",
+      "fonsize1": "1rem",
+      "text2": "HELLO MY NAME IS",
+      "spantext2": "NGO VAN VU.",
+      "fonsize": "4.375rem",
+      "color": "#E31C25",
+      "headersC": "© Vu.",
+      "id": 1
+    }
+  ],
+  "abouts": [
+    {
+      "text1": "MY MISSION IS",
+      "span": "FRONTEND DEVELOPER",
+      "colorspan": "#E31C25",
+      "text2": "THE BEST WEBSITES AROUND",
+      "p": "My name is Ngo Van Vu, you can call me \"Vu\" I'm a frontend developer living in Hanoi, Vietnam. I graduated with a major in Web Design. Up to now, I have worked on many projects from basic HTML to projects using the React library. Besides coding, I also enjoy designing websites using Figma tools. Scroll down to understand more about the projects I have developed and designed!",
+      "button": "MY RESUME",
+      "buttonlink": "assets/vu.jpg",
+      "img": [
+        "https://res.cloudinary.com/ddu7xygjs/image/upload/v1677115303/portfolio/rkdhmxnpv3k4aiyexjlg.jpg"
+      ],
+      "id": 2
+    }
+  ],
+  "skills": [
+    {
+      "name": "Html",
+      "showicon": "fa-brands fa-html5",
+      "fonsize": "50px",
+      "color": "#1f04f1",
+      "link": "html",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "css",
+      "showicon": "fa-brands fa-css3-alt",
+      "fonsize": "50px",
+      "color": "#d202ed",
+      "link": "https://fontawesome.com/icons/css3?s=&f=brands"
+    },
+    {
+      "name": "php",
+      "showicon": "fa-brands fa-php",
+      "fonsize": "50px",
+      "color": "#7a07ed",
+      "link": "https://fontawesome.com/icons/php?s=&f=brands",
+      "id": 3
+    },
+    {
+      "name": "figma",
+      "showicon": "fa-brands fa-figma",
+      "fonsize": "50px",
+      "color": "#f00000",
+      "link": "https://fontawesome.com/icons/figma?s=&f=brands",
+      "id": 4
+    },
+    {
+      "name": "js",
+      "showicon": "fa-brands fa-js",
+      "fonsize": "50px",
+      "color": "#eeff00",
+      "link": "https://fontawesome.com/icons/js?s=&f=brands",
+      "id": 5
+    },
+    {
+      "name": "bootstrap",
+      "showicon": "fa-brands fa-bootstrap",
+      "fonsize": "50px",
+      "color": "#6e2caf",
+      "link": "https://fontawesome.com/icons/bootstrap?s=&f=brands",
+      "id": 6
+    }
+  ]
+}
